@@ -3,7 +3,7 @@ Second-year Software Engineering student at McMaster University with experience 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/youssef-khafagy-48a262328) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-khafagy-48a262328) 
 
 
 # 💻 Tech Stack:
