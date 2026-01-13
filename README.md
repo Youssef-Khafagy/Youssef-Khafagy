@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F7FFF&width=435&lines=Second-Year+Software+Engineering+Student;C%2FC%2B%2B+%7C+Python+%7C+Java;Actively+Seeking+Internships)
+
+
 # 💫 About Me:
 Second-year Software Engineering student at McMaster University with experience in software development and technical problem-solving. I enjoy building practical solutions through programming and teamwork
 
