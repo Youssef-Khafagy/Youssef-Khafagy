@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Second-year Software Engineering student at McMaster University with experience in software development and technical problem-solving. I enjoy building practical solutions through programming and teamwork
+Second-year Software Engineering student at McMaster University with experience in software development and technical problem-solving. I enjoy building practical solutions through programming and teamwork.
 
 
 ## 🌐 Socials:
