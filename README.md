@@ -2,11 +2,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+useful+projects." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Youssef Khafagy</h1>
+# Youssef Khafagy
 
 Software Engineering student at McMaster University building practical software.
 
-[LinkedIn](https://linkedin.com/in/youssef-khafagy-48a262328) | [Email](mailto:youssef.m.khafagy@gmail.com)
+<table>
+  <tr>
+    <td><a href="https://youssef-khafagy.vercel.app/"><strong>Portfolio</strong></a></td>
+    <td>View my work and projects</td>
+  </tr>
+  <tr>
+    <td><a href="https://linkedin.com/in/youssef-khafagy-48a262328"><strong>LinkedIn</strong></a></td>
+    <td>Connect with me professionally</td>
+  </tr>
+  <tr>
+    <td><a href="mailto:youssef.m.khafagy@gmail.com"><strong>Email</strong></a></td>
+    <td>Reach out directly</td>
+  </tr>
+</table>
 
 ## About Me
 I enjoy turning ideas into useful software and improving both my technical and problem-solving skills through hands-on projects. My interests include software development, technical collaboration, and building clean, practical solutions that people can actually use.
