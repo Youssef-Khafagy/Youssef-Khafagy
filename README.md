@@ -22,11 +22,6 @@
 
 ### 👨‍💻 About Me
 
-I'm a software engineering student who enjoys turning ideas into clean, practical software. I care about writing code that's actually useful — not just technically correct — and I'm always looking to sharpen both my problem-solving instincts and collaboration skills through real projects.
-
-- 🔭 &nbsp;Currently building and shipping side projects
-- 🌱 &nbsp;Always learning something new
-- 💬 &nbsp;Open to collaborating on interesting ideas
 
 ---
 
@@ -67,13 +62,5 @@ I'm a software engineering student who enjoys turning ideas into clean, practica
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YoussefKhafagy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKhafagy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 
