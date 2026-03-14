@@ -1,24 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+practical+projects+and+learning+every+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+useful+projects." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Youssef Khafagy</h1>
 
-<p align="center">
-  Second-year Software Engineering student at McMaster University with a strong interest in building practical software, solving real problems, and growing through collaboration.
-</p>
+Software Engineering student at McMaster University building practical software.
 
-<p align="center">
-  <a href="https://youssef-khafagy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youssef.m.khafagy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[Portfolio](https://youssef-khafagy.vercel.app/) | [LinkedIn](https://linkedin.com/in/youssef-khafagy-48a262328) | [Email](mailto:youssef.m.khafagy@gmail.com)
 
 ## About Me
 I enjoy turning ideas into useful software and improving both my technical and problem-solving skills through hands-on projects. My interests include software development, technical collaboration, and building clean, practical solutions that people can actually use.
@@ -47,4 +35,3 @@ I enjoy turning ideas into useful software and improving both my technical and p
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
