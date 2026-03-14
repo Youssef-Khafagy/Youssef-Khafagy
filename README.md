@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=99999&color=00B4D8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=99999&color=00B4D8&center=true&vCenter=true&repeat=false&width=700&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,13 +10,15 @@
 
 <div align="center">
   <a href="https://youssef-khafagy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-6E57F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:youssef.m.khafagy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
