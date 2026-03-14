@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Hello%2C+welcome+to+my+GitHub." alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+## ðŸ’« About Me
 Second-year Software Engineering student at McMaster University with experience in software development and technical problem-solving. I enjoy building practical solutions through programming, collaboration, and continuous learning.
 
-## 🌐 Socials
+## ðŸŒ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-khafagy-48a262328)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.m.khafagy@gmail.com)
 
-## 💻 Tech Stack
+## ðŸ’» Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,3 +33,4 @@ Second-year Software Engineering student at McMaster University with experience 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
