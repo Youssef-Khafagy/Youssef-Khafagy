@@ -6,7 +6,7 @@
 
 Software Engineering student at McMaster University building practical software.
 
-[Portfolio](https://youssef-khafagy.vercel.app/) | [LinkedIn](https://linkedin.com/in/youssef-khafagy-48a262328) | [Email](mailto:youssef.m.khafagy@gmail.com)
+[LinkedIn](https://linkedin.com/in/youssef-khafagy-48a262328) | [Email](mailto:youssef.m.khafagy@gmail.com)
 
 ## About Me
 I enjoy turning ideas into useful software and improving both my technical and problem-solving skills through hands-on projects. My interests include software development, technical collaboration, and building clean, practical solutions that people can actually use.
