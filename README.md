@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+useful+projects." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Youssef Khafagy</h1>
-
-<p align="center">
-  Software Engineering student at McMaster University building practical software.
-</p>
-
 <p align="center">
   <a href="https://youssef-khafagy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
