@@ -7,18 +7,20 @@
 </div>
 
 <br/>
-
 <div align="center">
   <a href="https://youssef-khafagy.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-6E57F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/vercel/00B4D8" width="16" alt="Portfolio" />
+    Portfolio
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/00B4D8" width="16" alt="LinkedIn" />
+    LinkedIn
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:youssef.m.khafagy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/00B4D8" width="16" alt="Email" />
+    Email
   </a>
 </div>
 
