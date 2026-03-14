@@ -3,6 +3,15 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=99999&color=00B4D8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=3&width=700&borderRadius=2" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://youssef-khafagy.vercel.app/">
@@ -17,6 +26,12 @@
 </div>
 
 <br/>
+
+---
+
+### 👨‍💻 About Me
+
+Software engineering student with interests in AI/machine learning and full-stack development. I enjoy building applications that are clean, practical, and actually useful and I'm always looking to improve through real projects and real feedback.
 
 ---
 
@@ -56,5 +71,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-
