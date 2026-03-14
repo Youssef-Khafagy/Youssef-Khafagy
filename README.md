@@ -7,22 +7,14 @@
 </div>
 
 <br/>
-<div align="center">
-  <a href="https://youssef-khafagy.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/00B4D8" width="16" alt="Portfolio" />
-    Portfolio
-  </a>
+
+<h3 align="center">
+  <a href="https://youssef-khafagy.vercel.app/">🌐 Portfolio</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
-    <img src="https://cdn.simpleicons.org/linkedin/00B4D8" width="16" alt="LinkedIn" />
-    LinkedIn
-  </a>
+  <a href="https://linkedin.com/in/youssef-khafagy-48a262328">🔗 LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:youssef.m.khafagy@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/00B4D8" width="16" alt="Email" />
-    Email
-  </a>
-</div>
+  <a href="mailto:youssef.m.khafagy@gmail.com">📧 Email</a>
+</h3>
 
 <br/>
 
