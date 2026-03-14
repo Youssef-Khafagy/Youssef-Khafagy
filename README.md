@@ -1,6 +1,5 @@
-<p align="center">
+<
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+useful+projects." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://youssef-khafagy.vercel.app/">
