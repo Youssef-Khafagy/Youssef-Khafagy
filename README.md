@@ -76,8 +76,4 @@ I'm a software engineering student who enjoys turning ideas into clean, practica
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKhafagy&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
 
-<div align="center">
-  <sub>Thanks for stopping by ✌️</sub>
-</div>
