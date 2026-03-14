@@ -1,6 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Youssef+%F0%9F%91%8B;Software+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=99999&color=00B4D8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=3&width=700&borderRadius=2" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://youssef-khafagy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  ...
 
 <br/>
 
