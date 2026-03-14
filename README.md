@@ -2,24 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hello%2C+welcome+to+my+GitHub.;Software+Engineering+Student;Building+useful+projects." alt="Typing SVG" />
 </p>
 
-# Youssef Khafagy
+<h1 align="center">Youssef Khafagy</h1>
 
-Software Engineering student at McMaster University building practical software.
+<p align="center">
+  Software Engineering student at McMaster University building practical software.
+</p>
 
-<table>
-  <tr>
-    <td><a href="https://youssef-khafagy.vercel.app/"><strong>Portfolio</strong></a></td>
-    <td>View my work and projects</td>
-  </tr>
-  <tr>
-    <td><a href="https://linkedin.com/in/youssef-khafagy-48a262328"><strong>LinkedIn</strong></a></td>
-    <td>Connect with me professionally</td>
-  </tr>
-  <tr>
-    <td><a href="mailto:youssef.m.khafagy@gmail.com"><strong>Email</strong></a></td>
-    <td>Reach out directly</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://youssef-khafagy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youssef.m.khafagy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## About Me
 I enjoy turning ideas into useful software and improving both my technical and problem-solving skills through hands-on projects. My interests include software development, technical collaboration, and building clean, practical solutions that people can actually use.
