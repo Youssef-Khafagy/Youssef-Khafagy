@@ -20,11 +20,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
