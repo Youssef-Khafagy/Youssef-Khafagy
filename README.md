@@ -2,23 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,50:0077B6,100:00B4D8&height=200&section=header&text=Youssef%20Khafagy&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Software%20Engineering%20at%20McMaster%20%7C%20AI,%20ML%20and%20Full-Stack&descSize=17&descAlignY=53" alt="Youssef Khafagy" />
 </div>
 
-<p align="center">
+<h3 align="center">
   <a href="https://youssef-khafagy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/vercel/00B4D8" height="17" alt="" />&nbsp;&nbsp;Portfolio
   </a>
-  &nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="17" alt="" />&nbsp;&nbsp;LinkedIn
   </a>
-  &nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:youssef.m.khafagy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="17" alt="" />&nbsp;&nbsp;Email
   </a>
-  &nbsp;
-  <a href="https://github.com/Youssef-Khafagy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+</h3>
 
 ---
 
