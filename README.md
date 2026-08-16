@@ -7,7 +7,7 @@
     <img src="https://cdn.simpleicons.org/vercel/00B4D8" height="17" alt="" />&nbsp;&nbsp;Portfolio
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/youssef-khafagy-48a262328">
+  <a href="www.linkedin.com/in/youssefkhafagy">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="17" alt="" />&nbsp;&nbsp;LinkedIn
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
