@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-Khafagy/Youssef-Khafagy/main/assets/header.svg?v=3" width="100%" alt="Youssef Khafagy" />
+<img src="https://raw.githubusercontent.com/Youssef-Khafagy/Youssef-Khafagy/main/assets/header.svg?v=4" width="100%" alt="Youssef Khafagy" />
 </div>
 
 <p align="center">
