@@ -13,18 +13,18 @@
     </mask>
   </defs>
 
-  <rect width="880" height="200" fill="#0D1117"/>
+  <rect width="880" height="200" fill="#12161D"/>
 
-  <rect x="48" y="42" width="60" height="60" rx="16" fill="#14100C" stroke="#2E2419" stroke-width="1"/>
-  <path d="M68 62 L79 72 L68 82" fill="none" stroke="#F97316" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="84" y="79" width="14" height="3.2" rx="1.6" fill="#F97316">
+  <rect x="48" y="42" width="60" height="60" rx="3" fill="#12161D" stroke="#575B62" stroke-width="1"/>
+  <path d="M64.9 63.6 L74.3 72 L64.9 80.4" fill="none" stroke="#F9FAFB" stroke-width="5.6" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <rect x="81.8" y="77.2" width="12.2" height="5.6" fill="#427FD8">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.15s" calcMode="discrete" repeatCount="indefinite"/>
   </rect>
 
-  <text x="130" y="76" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#F0F6FC" letter-spacing="-0.8">Youssef Khafagy</text>
-  <text x="132" y="102" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="13.5" fill="#8B949E">Software engineering @ McMaster University</text>
+  <text x="130" y="76" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#F9FAFB" letter-spacing="-0.8">Youssef Khafagy</text>
+  <text x="132" y="102" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="13.5" fill="#B4B7BD">Software engineering @ McMaster University</text>
 
-  <g stroke="#3D444D" stroke-width="1.6" fill="none" stroke-linecap="round">
+  <g stroke="#393D45" stroke-width="1.6" fill="none" stroke-linecap="round">
     <path d="M48 148 H470" stroke-dasharray="422" stroke-dashoffset="0">
       <animate attributeName="stroke-dashoffset" values="422;0" dur="1.5s" begin="0.2s" fill="freeze"/>
     </path>
@@ -33,25 +33,25 @@
     </path>
   </g>
 
-  <g fill="#0D1117" stroke="#4A5460" stroke-width="1.6">
+  <g fill="#12161D" stroke="#575B62" stroke-width="1.6">
     <circle cx="120" cy="148" r="4"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.7s" fill="freeze"/></circle>
     <circle cx="205" cy="148" r="4"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1s" fill="freeze"/></circle>
     <circle cx="287" cy="172" r="4"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.4s" fill="freeze"/></circle>
     <circle cx="390" cy="148" r="4"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.8s" fill="freeze"/></circle>
   </g>
 
-  <circle cx="470" cy="148" r="5.5" fill="#F97316">
+  <circle cx="470" cy="148" r="5.5" fill="#427FD8">
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
   </circle>
-  <circle cx="470" cy="148" r="5.5" fill="none" stroke="#F97316" stroke-width="1.4" opacity="0">
+  <circle cx="470" cy="148" r="5.5" fill="none" stroke="#427FD8" stroke-width="1.4" opacity="0">
     <animate attributeName="r" values="5.5;17" dur="2.8s" begin="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.75;0" dur="2.8s" begin="2.5s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="492" y="152.5" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#8B949E" letter-spacing="0.3">AI/machine learning and full-stack development<animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.2s" fill="freeze"/></text>
+  <text x="492" y="152.5" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#B4B7BD" letter-spacing="0.3">AI/machine learning and full-stack development<animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.2s" fill="freeze"/></text>
 
   <g mask="url(#sweep)">
-    <text x="130" y="76" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#F97316" letter-spacing="-0.8">Youssef Khafagy</text>
-    <text x="132" y="102" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="13.5" fill="#FBBF7A">Software engineering @ McMaster University</text>
+    <text x="130" y="76" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#427FD8" letter-spacing="-0.8">Youssef Khafagy</text>
+    <text x="132" y="102" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="13.5" fill="#94B9F1">Software engineering @ McMaster University</text>
   </g>
 </svg>
