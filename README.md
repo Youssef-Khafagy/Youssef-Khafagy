@@ -21,18 +21,3 @@
 
 Software engineering student with interests in AI/machine learning and full-stack development. I enjoy building applications that are clean, practical, and actually useful and I'm always looking to improve through real projects and real feedback.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,bash)](https://skillicons.dev)
-
-**ML & Backend**
-
-[![ML and Backend](https://skillicons.dev/icons?i=pytorch,fastapi,flask,nodejs,postgres,supabase,firebase)](https://skillicons.dev)
-
-**Frontend & Tooling**
-
-[![Frontend and Tooling](https://skillicons.dev/icons?i=react,nextjs,vite,docker,git,githubactions,vercel)](https://skillicons.dev)
